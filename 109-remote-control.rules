@@ -1,0 +1,4 @@
+ATTR{idVendor}=="1d57",\
+ATTR{idProduct}=="ac01",\ 
+ACTION=="add",\
+MODE="0666", GROUP="plugdev", SYMLINK+="presenter", RUN+="/home/phoeagon/bin/usbremoter/launch2.sh"
