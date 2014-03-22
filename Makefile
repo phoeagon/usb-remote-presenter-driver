@@ -1,5 +1,5 @@
 cxx	=	g++
-CFLAGS	=	-Wall -O2
+CFLAGS	=	-g	-Wall -O2
 
 LIBUSB_FLAG	=	-I/usr/include/libusb-1.0/
 
